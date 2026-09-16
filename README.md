@@ -72,6 +72,6 @@ Through this project, I practiced:
 
 ## 👩‍💻 Author
 
-**Seelam Yaswanthi**
+**Deshapogu Swathi**
 
-B.Tech – Computer Science and Engineering
+B.Tech – CSE-AI
